@@ -1,8 +1,8 @@
 # Chaotic Generator Demo Software written in MATLAB
 
-This demo is written in [MATLAB](https://www.mathworks.com) and represents the work done for my final year project for obtaining my BSc Degree in Telecommunications. 
+This demo is written in [MATLAB](https://www.mathworks.com) and represents the work done during my final year project for obtaining the BSc Degree in Telecommunications. 
 
-The main window (figure 1) is called by typing at the Matlab prompt ”start”.
+The main window (figure 1) is shown by typing at the Matlab prompt ”start” (from the root folder where the sources are).
 
 ![Figure 1:	The main window](start.jpg)
 
