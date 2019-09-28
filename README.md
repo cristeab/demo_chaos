@@ -4,7 +4,7 @@ This demo is written in Matlab and represents the work done for my final year pr
 
 The main window (figure 1) is called by typing at the Matlab prompt ”start”.
 
-![Figure 1:	The main window](start.JPG)
+![Figure 1:	The main window](start.jpg)
 
 From the main window five different tools can be called:
 
