@@ -1,4 +1,4 @@
-# Chaotic Generator Demo Software written in MATLAB
+# Chaotic Generators Demo Software Written in MATLAB
 
 This demo is written in [MATLAB](https://www.mathworks.com) and represents the work done during my final year project for obtaining the BSc Degree in Telecommunications. 
 
