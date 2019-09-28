@@ -1,4 +1,4 @@
-function START
+function start
 
 %by Bogdan Cristea
 %e-mail: cristeab@gmail.com

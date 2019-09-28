@@ -111,8 +111,8 @@ function bifurcation(action)
 if nargin==0
 	
    %set paths 
-   addpath([pwd '\Discr']);
-   addpath([pwd '\Prvt']);
+   addpath([pwd '/Discr']);
+   addpath([pwd '/Prvt']);
    %initialize GUI
    srtBifurcationGUI;
    %set default generator (logisticmap)

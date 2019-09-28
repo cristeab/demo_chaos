@@ -105,8 +105,8 @@ function histogram(action)
 if nargin==0
 	
    %set paths 
-   addpath([pwd '\Discr']);
-   addpath([pwd '\Prvt']);
+   addpath([pwd '/Discr']);
+   addpath([pwd '/Prvt']);
    %initialize GUI
    srtHistogramGUI;
    %set default generator (genhaos)

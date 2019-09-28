@@ -213,8 +213,8 @@ function bicoherence(action)
 
 if nargin==0
    %set paths 
-   addpath([pwd '\Cont']);
-   addpath([pwd '\Prvt']);
+   addpath([pwd '/Cont']);
+   addpath([pwd '/Prvt']);
    %initialize GUI
    srtBicoherenceGUI;
    %set default generator (ColpittsOsc)

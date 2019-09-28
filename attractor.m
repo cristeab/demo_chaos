@@ -300,9 +300,9 @@ function attractor(action)
 if nargin==0
 	
    %set paths 
-   addpath([pwd '\Cont']);
-   addpath([pwd '\Discr']);
-   addpath([pwd '\Prvt']);
+   addpath([pwd '/Cont']);
+   addpath([pwd '/Discr']);
+   addpath([pwd '/Prvt']);
    %initialize GUI
    srtAttractorGUI;
    %set default generator (ChuaCirc)
